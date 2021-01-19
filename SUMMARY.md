@@ -8,7 +8,7 @@
     * [Ghidra](static/ghidra.md)
 * [动态分析](dyn/README.md)
     * [OD](dyn/OD.md)
-    * [XDBG](dyn/XDGG.md)
+    * [XDBG](dyn/XDBG.md)
     * [GDB](dyn/GDB.md)
 * [保护有对抗技术](pro-bypass/README.md)
     * [混淆与反混淆](pro-bypass/混淆与反混淆.md)
@@ -27,3 +27,4 @@
 * [逆向中的特殊技巧](SpecSkills/README.md)
     * [HOOK](SpecSkills/HOOK.md)
     * [DUMP](SpecSkills/DUMP.md)
+
