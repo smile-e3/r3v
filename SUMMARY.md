@@ -10,6 +10,7 @@
     * [OD](dyn/OD.md)
     * [XDBG](dyn/XDBG.md)
     * [GDB](dyn/GDB.md)
+    * [Windbg](dyn/Windbg.md)
 * [保护有对抗技术](pro-bypass/README.md)
     * [混淆与反混淆](pro-bypass/混淆与反混淆.md)
     * [加壳与脱壳](pro-bypass/加壳与脱壳.md)
@@ -23,7 +24,7 @@
     * [符号执行](NowRevEngineer/符号执行.md)
     * [污点追踪](NowRevEngineer/污点追踪.md)
     * [二进制插桩](NowRevEngineer/二进制插桩.md)
-    * [Pin](NowRevEngineer/Pin.md)
 * [逆向中的特殊技巧](SpecSkills/README.md)
     * [HOOK](SpecSkills/HOOK.md)
     * [DUMP](SpecSkills/DUMP.md)
+
