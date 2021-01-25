@@ -23,7 +23,8 @@
 * [现在逆向工程技巧](NowRevEngineer/README.md)
     * [符号执行](NowRevEngineer/符号执行.md)
     * [污点追踪](NowRevEngineer/污点追踪.md)
-    * [二进制插桩](NowRevEngineer/二进制插桩.md)
+    * [动态二进制插桩](NowRevEngineer/动态二进制插桩.md)
 * [逆向中的特殊技巧](SpecSkills/README.md)
     * [HOOK](SpecSkills/HOOK.md)
     * [DUMP](SpecSkills/DUMP.md)
+
