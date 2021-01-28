@@ -8,4 +8,4 @@
 
 - [ ] 希望内容能持续更新 
 
-- [ ] 项目中涉及的代码请访问Github[]
+- [ ] 项目中涉及的代码请访问Github:[r3v-pro](https://github.com/smile-e3/r3v-pro)
