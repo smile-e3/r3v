@@ -20,7 +20,7 @@
     * [Go](HiLevLanguage/Go.md)
     * [C++](HiLevLanguage/C++.md)
     * [C](HiLevLanguage/C.md)
-* [现在逆向工程技巧](NowRevEngineer/README.md)
+* [现代逆向工程技巧](NowRevEngineer/README.md)
     * [符号执行](NowRevEngineer/符号执行.md)
     * [污点追踪](NowRevEngineer/污点追踪.md)
     * [动态二进制插桩](NowRevEngineer/动态二进制插桩.md)
